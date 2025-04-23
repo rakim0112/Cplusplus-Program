@@ -92,4 +92,3 @@ CS210_Project_Three_Input_File.txt: Sample input file containing the list of pro
 
 frequency.dat: Backup data file containing item frequencies.
 
-README.md: Documentation describing the project.
